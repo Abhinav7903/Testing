@@ -10,4 +10,3 @@ type Repository interface {
 	// GetByAction(action string) ([]*factory.Model, error)
 	// GetByBranch(fromBranch, toBranch string) ([]*factory.Model, error)
 }
-Test
